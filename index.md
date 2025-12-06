@@ -1,6 +1,9 @@
 # Dossiê Documental – Marcelo Cabral  
 ### Rebranding Ético, Cultural e Narrativo
 
+{% include_relative _navigation.md %}
+
+
 ---
 
 [🏠 Início](./) • [ℹ Sobre o Projeto](about.md) • [📘 Dossiê](cases/marcelo-cabral/dossier/00-dossier-final.md) • [🎬 Pitch & Press Kit](cases/marcelo-cabral/pitch/03-press-kit.md) • [⚖ Legal](legal/)
