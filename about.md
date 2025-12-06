@@ -1,5 +1,8 @@
 # Sobre o Projeto – Documentário Marcelo Cabral  
 
+{% include_relative _navigation.md %}
+
+
 Este projeto nasce da necessidade de preencher uma lacuna na memória cultural brasileira: a ausência de documentação digna sobre a indústria adulta dos anos 2000 e sobre quem trabalhou nela, especialmente os homens.
 
 **Marcelo Cabral** foi uma figura reconhecida na época, mas nunca compreendida.  
