@@ -1,19 +1,22 @@
 # Dossiê Documental – Marcelo Cabral  
-### Rebranding Ético, Cultural e Narrativo  
-Versão Pública — Preparação Documental
+### Rebranding Ético, Cultural e Narrativo
 
 ---
 
-## 📘 Sobre o Projeto
+[🏠 Início](./) • [ℹ Sobre o Projeto](about.md) • [📘 Dossiê](cases/marcelo-cabral/dossier/00-dossier-final.md) • [🎬 Pitch & Press Kit](cases/marcelo-cabral/pitch/03-press-kit.md) • [⚖ Legal](legal/)
 
-Este site apresenta a reconstrução narrativa e documental do ex-ator brasileiro conhecido artisticamente como **Marcelo Cabral**.  
-O objetivo é tratar sua história com:
+---
 
-- dignidade  
-- responsabilidade  
-- contexto histórico  
-- profundidade cultural  
-- zero sensacionalismo  
+## 📘 Visão Geral
+
+Este projeto apresenta a reconstrução documental da trajetória de **Marcelo Cabral**, ex-ator da indústria adulta brasileira dos anos 2000, agora abordado como:
+
+- sujeito histórico  
+- arquivo vivo de uma época  
+- testemunha de um mercado pouco documentado  
+
+Sem cenas, sem detalhes gráficos, sem sensacionalismo.  
+O foco é memória, contexto cultural, masculinidade e dignidade.
 
 ---
 
@@ -22,57 +25,53 @@ O objetivo é tratar sua história com:
 **Primário:** Arquivo Vivo / Memória Documental  
 **Secundário:** Artista de Culto (moderado)
 
-Essa combinação permite:
+Isso permite trabalhar:
 
 - documentário  
-- entrevista roteirizada  
-- livro ou memória escrita  
-- narrativa madura e humana  
-- presença digital mínima e elegante  
+- minissérie documental  
+- entrevistas longas  
+- livro / memória escrita  
+- materiais de pesquisa e acervo
 
 ---
 
-## 🎬 Produtos Possíveis
+## 🎬 Materiais Principais
 
-- Documentário (35–55 min ou 3×20 min)  
-- Entrevista longa / Conversa dirigida  
-- Livro documental  
-- Podcast de memória  
-- Fotografias documentais  
-
----
-
-## 🛡 Princípios Éticos
-
-1. Nenhum conteúdo explícito.  
-2. Nenhum link ou material adulto.  
-3. Nenhum sensacionalismo.  
-4. Consentimento em todas as etapas.  
-5. Narrativa respeitosa, humana e madura.  
+- [Narrativa-base oficial](cases/marcelo-cabral/dossier/01-narrativa-base.md)  
+- [Sinopse estendida](cases/marcelo-cabral/dossier/03-sinopse-estendida.md)  
+- [Tratamento documental (estrutura do filme)](cases/marcelo-cabral/dossier/04-tratamento-documental.md)  
+- [Pitch deck](cases/marcelo-cabral/dossier/02-pitch-deck.md)  
+- [Press kit oficial](cases/marcelo-cabral/pitch/03-press-kit.md)  
 
 ---
 
-## 📄 Documentos do Projeto
+## ⚖ Ética e Limites
 
-- [Dossiê Final (Markdown)](cases/marcelo-cabral/dossier/00-dossier-final.md)  
-- [Frameworks de Rebranding](frameworks/)  
-- [Backlog do Projeto](roadmap/backlog.md)  
-- [Milestones](roadmap/milestones.md)  
-- [Declarações e Avisos Legais](legal/)  
+Este projeto segue princípios rígidos:
 
----
+- nenhum conteúdo sexual explícito;  
+- nenhuma descrição gráfica;  
+- nenhuma exploração sensacionalista;  
+- consentimento contínuo do representado;  
+- foco integral em dignidade e contexto humano.
 
-## 🌱 Finalidade
-
-Este projeto existe para:
-
-- resgatar dignidade histórica  
-- preencher lacunas culturais  
-- registrar uma época da mídia adulta brasileira  
-- construir uma narrativa limpa, séria e profissional  
+Mais detalhes em:  
+- [Disclaimer / Aviso de responsabilidade](legal/disclaimer.md)  
+- [Política de privacidade e dados](legal/privacy-and-data-handling.md)  
 
 ---
 
-## 📝 Contato Profissional
+## 📄 Documentos Legais (PDF)
 
-(Quando você tiver um e-mail profissional para o projeto, eu adiciono aqui.)
+- [Termo de Consentimento Narrativo](legal/pdfs/termo_consentimento_narrativo.pdf)  
+- [Termo de Cessão de Direitos de Imagem](legal/pdfs/termo_cessao_direitos_imagem.pdf)  
+- [Declaração de Limites](legal/pdfs/declaracao_limites.pdf)  
+- [Acordo de Confidencialidade](legal/pdfs/acordo_confidencialidade.pdf)  
+- [Autorização de Uso do Nome Artístico](legal/pdfs/autorizacao_uso_nome_artistico.pdf)  
+
+---
+
+## 📩 Contato Profissional
+
+*(Quando definir o e-mail oficial do projeto, você adiciona aqui.)*
+
